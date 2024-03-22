@@ -22,7 +22,7 @@ This is a basic backend setup for a socket-based chat app, designed for easy dep
 
 3)node index.js
 
-Good to go ,,just do inspect and open console and see results 😉.
+Good to go ,,just go to your browser ,enter (http://localhost:9000/)  and open console and see results 😉.
 
 
 ## Remarks
